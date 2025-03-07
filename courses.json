@@ -3,8 +3,8 @@
         {
             "year_level": "1st",
             "sem": "1st",
-            "code": "CWTS101",
-            "description": "Civic Welfare Training Service 1",
+            "code": "NSTP101a",
+            "description": "ROTC 1",
             "credit": "2.0"
         },
         {
@@ -59,8 +59,8 @@
         {
             "year_level": "1st",
             "sem": "2nd",
-            "code": "CWTS102",
-            "description": "Civic Welfare Training Service 2",
+            "code": "NSTP102a",
+            "description": "ROTC 2",
             "credit": "2.0"
         },
         {
