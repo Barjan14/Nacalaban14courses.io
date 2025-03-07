@@ -1,0 +1,249 @@
+{
+    "courses": [
+        {
+            "year_level": "1st",
+            "sem": "1st",
+            "code": "CWTS101",
+            "description": "Civic Welfare Training Service 1",
+            "credit": "2.0"
+        },
+        {
+            "year_level": "1st",
+            "sem": "1st",
+            "code": "IT101",
+            "description": "Introduction to Computing",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "1st",
+            "sem": "1st",
+            "code": "IT112",
+            "description": "Computer Programming 1",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "1st",
+            "sem": "1st",
+            "code": "ENG101",
+            "description": "Purposive Communication",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "1st",
+            "sem": "1st",
+            "code": "HIST101",
+            "description": "Readings in Philippine History",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "1st",
+            "sem": "1st",
+            "code": "SOC101",
+            "description": "The Contemporary World",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "1st",
+            "sem": "1st",
+            "code": "MATH101",
+            "description": "Mathematics in the Modern World",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "1st",
+            "sem": "1st",
+            "code": "PE101",
+            "description": "Movement Enhancement",
+            "credit": "2.0"
+        },
+        {
+            "year_level": "1st",
+            "sem": "2nd",
+            "code": "CWTS102",
+            "description": "Civic Welfare Training Service 2",
+            "credit": "2.0"
+        },
+        {
+            "year_level": "1st",
+            "sem": "2nd",
+            "code": "STEM101",
+            "description": "Science, Technology and Society",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "1st",
+            "sem": "2nd",
+            "code": "IT113",
+            "description": "Computer Programming 2",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "1st",
+            "sem": "2nd",
+            "code": "IT114",
+            "description": "Data Structures and Algorithms",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "1st",
+            "sem": "2nd",
+            "code": "MATH102",
+            "description": "Discrete Mathematics",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "1st",
+            "sem": "2nd",
+            "code": "ART101",
+            "description": "Art Appreciation",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "1st",
+            "sem": "2nd",
+            "code": "PSYC101",
+            "description": "Understanding the Self",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "1st",
+            "sem": "2nd",
+            "code": "PE102",
+            "description": "Fitness Activity and Exercises",
+            "credit": "2.0"
+        },
+        {
+            "year_level": "2nd",
+            "sem": "1st",
+            "code": "HCI201",
+            "description": "Intro to Human Computer Interaction",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "2nd",
+            "sem": "1st",
+            "code": "DBS201",
+            "description": "Fundamentals of Database Systems",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "2nd",
+            "sem": "1st",
+            "code": "PT201",
+            "description": "Platform Technologies",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "2nd",
+            "sem": "1st",
+            "code": "OOP201",
+            "description": "Object Oriented Programming",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "2nd",
+            "sem": "1st",
+            "code": "ACC201",
+            "description": "Accounting Principles",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "2nd",
+            "sem": "1st",
+            "code": "PE201",
+            "description": "Physical Activity Towards Health and Fitness 1",
+            "credit": "2.0"
+        },
+        {
+            "year_level": "2nd",
+            "sem": "2nd",
+            "code": "IM202",
+            "description": "Information Management",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "2nd",
+            "sem": "2nd",
+            "code": "NET202",
+            "description": "Networking 1",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "2nd",
+            "sem": "2nd",
+            "code": "WEB202",
+            "description": "Web Systems and Technologies",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "2nd",
+            "sem": "2nd",
+            "code": "SIA202",
+            "description": "Systems Integration and Architecture",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "2nd",
+            "sem": "2nd",
+            "code": "ETH202",
+            "description": "Ethics",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "2nd",
+            "sem": "2nd",
+            "code": "RIZ202",
+            "description": "Life and Works of Rizal",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "2nd",
+            "sem": "2nd",
+            "code": "PE202",
+            "description": "Physical Activity Towards Health and Fitness 2",
+            "credit": "2.0"
+        },
+        {
+            "year_level": "3rd",
+            "sem": "1st",
+            "code": "IAS301",
+            "description": "Information Assurance and Security",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "3rd",
+            "sem": "1st",
+            "code": "NET302",
+            "description": "Networking 2",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "3rd",
+            "sem": "1st",
+            "code": "MOB301",
+            "description": "Mobile Programming",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "3rd",
+            "sem": "1st",
+            "code": "SE301",
+            "description": "Software Engineering",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "3rd",
+            "sem": "1st",
+            "code": "ITEL301",
+            "description": "IT Elective 1",
+            "credit": "3.0"
+        },
+        {
+            "year_level": "3rd",
+            "sem": "1st",
+            "code": "TECH301",
+            "description": "Technopreneurship",
+            "credit": "3.0"
+        }
+    ]
+}
